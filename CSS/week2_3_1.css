@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'myfont';
+    src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-decoration: underline dotted  green;
+    text-transform: uppercase;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: chartreuse;
+    text-align: end;
+    text-indent: 50px;
+}
+h3{
+    font-family: myfont;
+    text-decoration: underline dashed black;
+}

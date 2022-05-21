@@ -1,0 +1,10 @@
+span{
+    font-weight: bold ;
+    color: orangered;
+}
+table h3{
+    color: orangered;
+}
+span#logo{
+    padding: 300px;
+}

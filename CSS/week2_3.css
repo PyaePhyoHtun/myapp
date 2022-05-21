@@ -1,0 +1,21 @@
+p+p{
+    color: red;
+}
+h2+p{
+    color: gold;
+}
+p{
+    color: red;
+}
+div+div{
+    background-color: black;
+}
+input[type=text]{
+    background-color: brown;
+}
+button{
+    color:blue ;
+}
+input[type=submit]{
+    background-color: cyan;
+}

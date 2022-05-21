@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+}
+.row1{
+    background-image: url(Gym1.jpg);
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1{
+    /* border: 1px solid #9CD3DB; */
+    width: 450px;
+    height: 200px;
+    background-color: #067b8d;
+    opacity: 0.5; 
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    text-align: justify;
+}
+.box1>a{
+    text-decoration: none;
+    border: 1px solid white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    position: relative;
+    left: 120px;
+}
+.row2{
+    color: white;
+    width: 100%;
+    
+}
+.container2{
+    position: relative;
+    height: 300px;
+}
+.box2{
+    background-image: url(Gym2.jpg);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.live1{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 0%;
+    background-color: aqua;
+}
+.box3{
+    background-image: url(Gym3.jpg);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+}
+.box4{
+    background-image: url(Gym4.jpg);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+}
+p.head{
+    font-style: italic;
+    float: left;
+    padding-left: 5px;
+}
+span{
+    font-weight: bold;
+}
+p.room{
+    float: right;
+    padding-right: 5px;
+}
+.container3{
+    position: relative;
+}
+.letter1{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.letter2{
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.letter3{
+    width: 300px;
+    height: 230px;
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.row3 h3{
+    color: red;
+}
+.row3 a{
+    text-decoration: none;
+    border: 1px solid gold;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    position: relative;
+    left: 150px;
+    background-color: gold;
+    color: white;
+}
+

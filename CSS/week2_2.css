@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+}
+h2>p{
+    color: greenyellow;
+    background-color: purple;
+}
+ul > li{
+    color: red;
+}
+div>p{
+    color: red;
+}
+
+div>div>p{
+    color: purple;
+}
